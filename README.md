@@ -8,7 +8,7 @@ Maintains the helix network nominee-, trustee- and notary-addresses, global gene
 
 ## Global snapshots
 
-Snapshots for mainnet and testnet are contained in the [snapshot-directory](https://github.com/HelixNetwork/helix-dao-data/snapshots).
+Snapshots for mainnet and testnet are contained in the [snapshot-directory](https://github.com/HelixNetwork/helix-dao-data/tree/master/snapshots).
 
 ## Nominees
 
