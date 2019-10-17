@@ -4,7 +4,7 @@ In this repository the Helix Foundation maintains the helix network validator-, 
 
 ## Genesis Time
 
-- **Testnet**: 17 Sep 2019 13:12:56 UTC, `1568725976628`
+- **Testnet**: 17 Oct 2019 02:25:07 UTC, `1571279107785`
 - **Mainnet**: 21 Sep 2019 00:00:01 UTC,  `1569024001000`
 
 ## Global snapshots
