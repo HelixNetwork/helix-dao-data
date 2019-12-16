@@ -13,6 +13,8 @@ Snapshots for mainnet and testnet are contained in the [snapshot-directory](http
 
 ### Snapshot Public Keys
 
+- `b559933da4b3e0c5f35c02d6b9a0d619f9e6536426e205d18308667a9c9225ae`
+
 ## Testnet Validators
 
 - `eb0d925c1cfa4067db65e4b93fa17d451120cc5a719d637d44a39a983407d832`
