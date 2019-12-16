@@ -22,8 +22,6 @@ Snapshots for mainnet and testnet are contained in the [snapshot-directory](http
 
 ## Mainnet Validators
 
->  soon to be updated in v0.6.9
-
 - `eb0d925c1cfa4067db65e4b93fa17d451120cc5a719d637d44a39a983407d832`
 - `a5afe01e64ae959f266b382bb5927fd07b49e7e3180239535126844aaae9bf93`
 - `e2debe246b5d1a6e05b57b0fc14edb51d136966a91a803b523586ad032f72f3d`
