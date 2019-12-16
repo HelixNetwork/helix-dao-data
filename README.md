@@ -11,6 +11,8 @@ In this repository the Helix Foundation maintains the helix network validator-, 
 
 Snapshots for mainnet and testnet are contained in the [snapshot-directory](https://github.com/HelixNetwork/helix-dao-data/tree/master/snapshots).
 
+### Snapshot Public Keys
+
 ## Testnet Validators
 
 - `eb0d925c1cfa4067db65e4b93fa17d451120cc5a719d637d44a39a983407d832`
