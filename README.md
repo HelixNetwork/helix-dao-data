@@ -39,7 +39,10 @@ Snapshots for mainnet and testnet are contained in the [snapshot-directory](http
 Supply in the HelixNetwork is static, there is no burning or mining of coins. The circulating supply is calculated by: `TOTAL_SUPPLY-TREASURY`.
 
 ### Supply in HLX:
-- `4292493394837504`
+- `4292493394837504` HLX
+
+### Supply in mHLX (rounded):
+- `4292493394` mHLX
 
 ## Treasury
 - `906bb58e2cbd0a74169d49266561923a77212c4910b16d7399a46d1caf471af8aaf0279c`
