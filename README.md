@@ -34,8 +34,15 @@ Snapshots for mainnet and testnet are contained in the [snapshot-directory](http
 - `1c6b0ee311a7ddccf255c1097995714b285cb06628be1cef2080b0bef7700e12`
 - `c8af8e92d12080d4723f0d54c31b84eb866a856583bdbe37ddfc3cbac46947bd`
 
+## Supply
+
+Supply in the HelixNetwork is static, there is no burning or mining of coins.
+
+### Supply in HLX:
+- `4292493394837504`
+
 ## Treasury
--`906bb58e2cbd0a74169d49266561923a77212c4910b16d7399a46d1caf471af8aaf0279c`
+- `906bb58e2cbd0a74169d49266561923a77212c4910b16d7399a46d1caf471af8aaf0279c`
 
 ### Partnerships
 - `befbb9cb2d8a7f0df620076eb094d6dbf335fd6e644c30917a4e493f25d6f8feab1b3230`
